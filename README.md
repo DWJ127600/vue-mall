@@ -1,4 +1,4 @@
-# vue-mall
+# Vue Mall
 
 一个基于 `Vue 3 + TypeScript + Vite` 的电商前端项目，包含首页、分类、商品详情、购物车、结算支付、会员中心等完整商城流程。
 
